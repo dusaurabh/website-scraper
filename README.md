@@ -5,9 +5,15 @@ This is a web based site scraper made with Django and BeautifulSoup where we can
 
 Technologies Used :-
 • Python
+
 • Django
+
 • BeautifulSoup
+
 • SQLite
+
 • HTML
+
 • CSS
+
 • Bootstrap
